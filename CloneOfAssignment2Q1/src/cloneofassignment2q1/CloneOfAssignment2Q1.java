@@ -12,6 +12,10 @@ public class CloneOfAssignment2Q1 {
 
     public static void main(String[] args) {
         int x = 10000;
+        
+        
+        System.out.println("whats good cuh!");
+        
         System.out.println("gegege");
         while (x > 1) {
             if (hello(x)) {
