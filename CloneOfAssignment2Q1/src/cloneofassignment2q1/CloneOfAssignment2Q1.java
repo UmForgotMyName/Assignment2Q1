@@ -15,7 +15,7 @@ public class CloneOfAssignment2Q1 {
         System.out.println("gegege");
         while (x > 1) {
             if (hello(x)) {
-                System.out.println(x);
+                System.out.println("boyboy");
             }
             x--;
         }
